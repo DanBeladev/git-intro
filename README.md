@@ -3,7 +3,7 @@ by [Yair Gordon](mailto:bluepostit101@gmail.com)
 
 ## Before We Start
 1. Create your own [GitHub account](https://github.com/join?source=header-home)
-2. Install a simple text editor, such as [Notepad++](https://notepad-plus-plus.org/) or the great [Sublime Text](https://www.sublimetext.com/).
+2. Install a simple text editor, such as [Notepad++](https://notepad-plus-plus.org/) (Windows only) or the great [Sublime Text](https://www.sublimetext.com/) (cross-platform).
 
 ## Install Git
 * For Mac OS, click [here](https://git-scm.com/download/mac)
