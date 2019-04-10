@@ -13,7 +13,5 @@ by [Yair Gordon](mailto:bluepostit101@gmail.com)
 1. Open a terminal
   * For Mac OS, find and open *Terminal*.
   * For Windows, press `Win`, type `cmd`, and press `<Enter>`.
-2. Type this command and press `<Enter>`:  ```
-git --version
-```
+2. Type this command and press `<Enter>`:  ```git --version```
 3. You should see information about the Git program which has been installed on your computer, including its version number.
